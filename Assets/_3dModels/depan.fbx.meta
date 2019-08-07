@@ -1,0 +1,1257 @@
+fileFormatVersion: 2
+guid: b2013a8b193649d418a6cb26c5705d84
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1517449362-logo-unmuh-1912-(2)
+    100002: Camera
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Cube.003
+    100012: Cube.004
+    100014: Cube.005
+    100016: Cube.006
+    100018: Cube.007
+    100020: Cube.008
+    100022: Cube.009
+    100024: Cube.010
+    100026: Cube.011
+    100028: Cube.012
+    100030: Cube.013
+    100032: Cube.014
+    100034: Cube.015
+    100036: Cube.016
+    100038: Cube.017
+    100040: Cube.018
+    100042: Cylinder
+    100044: Cylinder.001
+    100046: Cylinder.002
+    100048: Cylinder.003
+    100050: Cylinder.004
+    100052: Cylinder.005
+    100054: Cylinder.006
+    100056: Cylinder.007
+    100058: Cylinder.008
+    100060: Cylinder.009
+    100062: Cylinder.010
+    100064: Cylinder.011
+    100066: Cylinder.012
+    100068: Cylinder.013
+    100070: Cylinder.014
+    100072: Cylinder.015
+    100074: Cylinder.016
+    100076: Cylinder.017
+    100078: Cylinder.018
+    100080: Cylinder.019
+    100082: Cylinder.020
+    100084: //RootNode
+    100086: Door
+    100088: Door_Group
+    100090: Door_Group.001
+    100092: Door_Group.002
+    100094: Door_Group.003
+    100096: DoorFrame
+    100098: Grid
+    100100: Handle_Back
+    100102: Handle_Front
+    100104: Lamp
+    100106: leaves
+    100108: leaves.001
+    100110: leaves.002
+    100112: leaves.003
+    100114: leaves.004
+    100116: leaves.005
+    100118: Plane
+    100120: Plane.001
+    100122: Plane.002
+    100124: Roof
+    100126: Roof.001
+    100128: Roof.002
+    100130: Text
+    100132: Text.001
+    100134: tree
+    100136: tree.001
+    100138: tree.002
+    100140: tree.003
+    100142: tree.004
+    100144: tree.005
+    100146: Window
+    100148: Window Panel
+    100150: Window Panel.001
+    100152: Window Panel.004
+    100154: Window Panel.005
+    100156: Window Panel.006
+    100158: Window Panel.007
+    100160: Window Panel.008
+    100162: Window Panel.009
+    100164: Window Panel.010
+    100166: Window Panel.011
+    100168: Window Panel.012
+    100170: Window Panel.013
+    100172: Window Panel.014
+    100174: Window Panel.015
+    100176: Window Panel.016
+    100178: Window Panel.017
+    100180: Window Panel.018
+    100182: Window Panel.019
+    100184: Window Panel.020
+    100186: Window Panel.021
+    100188: Window Panel.022
+    100190: Window Panel.023
+    100192: Window Panel.024
+    100194: Window Panel.025
+    100196: Window Panel.026
+    100198: Window Panel.027
+    100200: Window Panel.028
+    100202: Window Panel.029
+    100204: Window Panel.030
+    100206: Window Panel.031
+    100208: Window Panel.032
+    100210: Window Panel.033
+    100212: Window Panel.034
+    100214: Window Panel.035
+    100216: Window Panel.036
+    100218: Window Panel.037
+    100220: Window Panel.038
+    100222: Window Panel.039
+    100224: Window Panel.040
+    100226: Window Panel.041
+    100228: Window Panel.042
+    100230: Window Panel.043
+    100232: Window Panel.044
+    100234: Window Panel.045
+    100236: Window Panel.050
+    100238: Window Panel.051
+    100240: Window Panel.052
+    100242: Window Panel.053
+    100244: Window Panel.054
+    100246: Window Panel.055
+    100248: Window Panel.056
+    100250: Window Panel.057
+    100252: Window Panel.058
+    100254: Window Panel.059
+    100256: Window Panel.060
+    100258: Window Panel.061
+    100260: Window Panel.062
+    100262: Window Panel.063
+    100264: Window Panel.064
+    100266: Window Panel.065
+    100268: Window Panel.066
+    100270: Window Panel.067
+    100272: Window Panel.068
+    100274: Window Panel.069
+    100276: Window Panel.070
+    100278: Window Panel.071
+    100280: Window Panel.072
+    100282: Window Panel.073
+    100284: Window Panel.074
+    100286: Window Panel.075
+    100288: Window Panel.076
+    100290: Window Panel.077
+    100292: Window.001
+    100294: Window.002
+    100296: Window.003
+    100298: Window.004
+    100300: Window.005
+    100302: Window.006
+    100304: Window.007
+    100306: Window.008
+    100308: Window.009
+    100310: Window.010
+    100312: Window.011
+    100314: Window.012
+    100316: Window.013
+    100318: Window.014
+    100320: Window.015
+    100322: Window.016
+    100324: Window.017
+    100326: Window.018
+    100328: Window.019
+    100330: Window.020
+    100332: Window.021
+    100334: Window.022
+    100336: Window.023
+    100338: Window.024
+    100340: Window.025
+    100342: Window.026
+    100344: Window.027
+    100346: Window.028
+    100348: Window.029
+    100350: Window.030
+    100352: Window.031
+    100354: Window.032
+    100356: Window.033
+    100358: Window.034
+    100360: Window.035
+    400000: 1517449362-logo-unmuh-1912-(2)
+    400002: Camera
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Cube.003
+    400012: Cube.004
+    400014: Cube.005
+    400016: Cube.006
+    400018: Cube.007
+    400020: Cube.008
+    400022: Cube.009
+    400024: Cube.010
+    400026: Cube.011
+    400028: Cube.012
+    400030: Cube.013
+    400032: Cube.014
+    400034: Cube.015
+    400036: Cube.016
+    400038: Cube.017
+    400040: Cube.018
+    400042: Cylinder
+    400044: Cylinder.001
+    400046: Cylinder.002
+    400048: Cylinder.003
+    400050: Cylinder.004
+    400052: Cylinder.005
+    400054: Cylinder.006
+    400056: Cylinder.007
+    400058: Cylinder.008
+    400060: Cylinder.009
+    400062: Cylinder.010
+    400064: Cylinder.011
+    400066: Cylinder.012
+    400068: Cylinder.013
+    400070: Cylinder.014
+    400072: Cylinder.015
+    400074: Cylinder.016
+    400076: Cylinder.017
+    400078: Cylinder.018
+    400080: Cylinder.019
+    400082: Cylinder.020
+    400084: //RootNode
+    400086: Door
+    400088: Door_Group
+    400090: Door_Group.001
+    400092: Door_Group.002
+    400094: Door_Group.003
+    400096: DoorFrame
+    400098: Grid
+    400100: Handle_Back
+    400102: Handle_Front
+    400104: Lamp
+    400106: leaves
+    400108: leaves.001
+    400110: leaves.002
+    400112: leaves.003
+    400114: leaves.004
+    400116: leaves.005
+    400118: Plane
+    400120: Plane.001
+    400122: Plane.002
+    400124: Roof
+    400126: Roof.001
+    400128: Roof.002
+    400130: Text
+    400132: Text.001
+    400134: tree
+    400136: tree.001
+    400138: tree.002
+    400140: tree.003
+    400142: tree.004
+    400144: tree.005
+    400146: Window
+    400148: Window Panel
+    400150: Window Panel.001
+    400152: Window Panel.004
+    400154: Window Panel.005
+    400156: Window Panel.006
+    400158: Window Panel.007
+    400160: Window Panel.008
+    400162: Window Panel.009
+    400164: Window Panel.010
+    400166: Window Panel.011
+    400168: Window Panel.012
+    400170: Window Panel.013
+    400172: Window Panel.014
+    400174: Window Panel.015
+    400176: Window Panel.016
+    400178: Window Panel.017
+    400180: Window Panel.018
+    400182: Window Panel.019
+    400184: Window Panel.020
+    400186: Window Panel.021
+    400188: Window Panel.022
+    400190: Window Panel.023
+    400192: Window Panel.024
+    400194: Window Panel.025
+    400196: Window Panel.026
+    400198: Window Panel.027
+    400200: Window Panel.028
+    400202: Window Panel.029
+    400204: Window Panel.030
+    400206: Window Panel.031
+    400208: Window Panel.032
+    400210: Window Panel.033
+    400212: Window Panel.034
+    400214: Window Panel.035
+    400216: Window Panel.036
+    400218: Window Panel.037
+    400220: Window Panel.038
+    400222: Window Panel.039
+    400224: Window Panel.040
+    400226: Window Panel.041
+    400228: Window Panel.042
+    400230: Window Panel.043
+    400232: Window Panel.044
+    400234: Window Panel.045
+    400236: Window Panel.050
+    400238: Window Panel.051
+    400240: Window Panel.052
+    400242: Window Panel.053
+    400244: Window Panel.054
+    400246: Window Panel.055
+    400248: Window Panel.056
+    400250: Window Panel.057
+    400252: Window Panel.058
+    400254: Window Panel.059
+    400256: Window Panel.060
+    400258: Window Panel.061
+    400260: Window Panel.062
+    400262: Window Panel.063
+    400264: Window Panel.064
+    400266: Window Panel.065
+    400268: Window Panel.066
+    400270: Window Panel.067
+    400272: Window Panel.068
+    400274: Window Panel.069
+    400276: Window Panel.070
+    400278: Window Panel.071
+    400280: Window Panel.072
+    400282: Window Panel.073
+    400284: Window Panel.074
+    400286: Window Panel.075
+    400288: Window Panel.076
+    400290: Window Panel.077
+    400292: Window.001
+    400294: Window.002
+    400296: Window.003
+    400298: Window.004
+    400300: Window.005
+    400302: Window.006
+    400304: Window.007
+    400306: Window.008
+    400308: Window.009
+    400310: Window.010
+    400312: Window.011
+    400314: Window.012
+    400316: Window.013
+    400318: Window.014
+    400320: Window.015
+    400322: Window.016
+    400324: Window.017
+    400326: Window.018
+    400328: Window.019
+    400330: Window.020
+    400332: Window.021
+    400334: Window.022
+    400336: Window.023
+    400338: Window.024
+    400340: Window.025
+    400342: Window.026
+    400344: Window.027
+    400346: Window.028
+    400348: Window.029
+    400350: Window.030
+    400352: Window.031
+    400354: Window.032
+    400356: Window.033
+    400358: Window.034
+    400360: Window.035
+    2000000: Camera
+    2100000: Material.061
+    2100002: Material.060
+    2100004: 1517449362-logo-unmuh-1912-(2)
+    2100006: Material.022
+    2100008: Material.021
+    2100010: Window_outside
+    2100012: Window_metal
+    2100014: Window_inside
+    2100016: Window_stone
+    2100018: Window_glass
+    2100020: Material.018
+    2100022: Material.024
+    2100024: Door_material
+    2100026: Handle_material
+    2100028: Material.003
+    2100030: Material.002
+    2100032: Material.048
+    2100034: Material.011
+    2100036: Material.010
+    2100038: Material.008
+    2100040: Material.009
+    2100042: Material.036
+    2100044: Material.035
+    2100046: Roof_rakes
+    2100048: Roof_eaves
+    2100050: Roof_ridge
+    2100052: Roof_hip_tiles
+    2100054: Roof_valley
+    2100056: Roof_sheeting
+    2100058: Roof_rafter
+    2100060: Roof_tiles4
+    2100062: Roof_tiles3
+    2100064: Roof_tiles2
+    2100066: Roof_tiles
+    2100068: utama
+    2100070: biru
+    2100072: Material.006
+    2100074: Material.005
+    2100076: kuning
+    2100078: Material.023
+    2100080: Material.007
+    2100082: Roof_rakes.001
+    2100084: Roof_eaves.001
+    2100086: Roof_ridge.001
+    2100088: Roof_hip_tiles.001
+    2100090: Roof_valley.001
+    2100092: Roof_sheeting.001
+    2100094: Roof_rafter.001
+    2100096: Roof_tiles4.001
+    2100098: Roof_tiles3.001
+    2100100: Roof_tiles2.001
+    2100102: Roof_tiles.001
+    2100104: Material.013
+    2100106: Material.012
+    2100108: Material.014
+    2100110: Material.015
+    2100112: Material.043
+    2100114: Material.044
+    2100116: Material.037
+    2100118: Material.038
+    2100120: Material.040
+    2100122: Material.039
+    2100124: Material.041
+    2100126: Material.042
+    2100128: Material.001
+    2100130: Material.004
+    2100132: Material.017
+    2100134: Material.016
+    2100136: Material.025
+    2100138: Material.027
+    2100140: Material.026
+    2100142: Material.019
+    2100144: Material.020
+    2100146: Window_outside.004
+    2100148: Window_metal.004
+    2100150: Window_inside.004
+    2100152: Window_stone.004
+    2100154: Window_glass.004
+    2100156: Window_outside.005
+    2100158: Window_metal.005
+    2100160: Window_inside.005
+    2100162: Window_stone.005
+    2100164: Window_glass.005
+    2100166: Window_outside.006
+    2100168: Window_metal.006
+    2100170: Window_inside.006
+    2100172: Window_stone.006
+    2100174: Window_glass.006
+    2100176: Window_outside.007
+    2100178: Window_metal.007
+    2100180: Window_inside.007
+    2100182: Window_stone.007
+    2100184: Window_glass.007
+    2100186: Window_outside.008
+    2100188: Window_metal.008
+    2100190: Window_inside.008
+    2100192: Window_stone.008
+    2100194: Window_glass.008
+    2100196: Window_outside.011
+    2100198: Window_metal.011
+    2100200: Window_inside.011
+    2100202: Window_stone.011
+    2100204: Window_glass.011
+    2100206: Window_outside.012
+    2100208: Window_metal.012
+    2100210: Window_inside.012
+    2100212: Window_stone.012
+    2100214: Window_glass.012
+    2100216: Window_outside.013
+    2100218: Window_metal.013
+    2100220: Window_inside.013
+    2100222: Window_stone.013
+    2100224: Window_glass.013
+    2100226: Window_outside.014
+    2100228: Window_metal.014
+    2100230: Window_inside.014
+    2100232: Window_stone.014
+    2100234: Window_glass.014
+    2100236: Window_outside.015
+    2100238: Window_metal.015
+    2100240: Window_inside.015
+    2100242: Window_stone.015
+    2100244: Window_glass.015
+    2100246: Window_outside.016
+    2100248: Window_metal.016
+    2100250: Window_inside.016
+    2100252: Window_stone.016
+    2100254: Window_glass.016
+    2100256: Window_outside.017
+    2100258: Window_metal.017
+    2100260: Window_inside.017
+    2100262: Window_stone.017
+    2100264: Window_glass.017
+    2100266: Window_outside.018
+    2100268: Window_metal.018
+    2100270: Window_inside.018
+    2100272: Window_stone.018
+    2100274: Window_glass.018
+    2100276: Window_outside.019
+    2100278: Window_metal.019
+    2100280: Window_inside.019
+    2100282: Window_stone.019
+    2100284: Window_glass.019
+    2100286: Window_outside.020
+    2100288: Window_metal.020
+    2100290: Window_inside.020
+    2100292: Window_stone.020
+    2100294: Window_glass.020
+    2100296: Window_outside.021
+    2100298: Window_metal.021
+    2100300: Window_inside.021
+    2100302: Window_stone.021
+    2100304: Window_glass.021
+    2100306: Window_outside.022
+    2100308: Window_metal.022
+    2100310: Window_inside.022
+    2100312: Window_stone.022
+    2100314: Window_glass.022
+    2100316: Window_outside.025
+    2100318: Window_metal.025
+    2100320: Window_inside.025
+    2100322: Window_stone.025
+    2100324: Window_glass.025
+    2100326: Window_outside.026
+    2100328: Window_metal.026
+    2100330: Window_inside.026
+    2100332: Window_stone.026
+    2100334: Window_glass.026
+    2100336: Window_outside.027
+    2100338: Window_metal.027
+    2100340: Window_inside.027
+    2100342: Window_stone.027
+    2100344: Window_glass.027
+    2100346: Window_outside.028
+    2100348: Window_metal.028
+    2100350: Window_inside.028
+    2100352: Window_stone.028
+    2100354: Window_glass.028
+    2100356: Window_outside.032
+    2100358: Window_metal.032
+    2100360: Window_inside.032
+    2100362: Window_stone.032
+    2100364: Window_glass.032
+    2100366: Window_outside.033
+    2100368: Window_metal.033
+    2100370: Window_inside.033
+    2100372: Window_stone.033
+    2100374: Window_glass.033
+    2100376: Window_outside.034
+    2100378: Window_metal.034
+    2100380: Window_inside.034
+    2100382: Window_stone.034
+    2100384: Window_glass.034
+    2100386: Window_outside.035
+    2100388: Window_metal.035
+    2100390: Window_inside.035
+    2100392: Window_stone.035
+    2100394: Window_glass.035
+    2100396: Window_outside.036
+    2100398: Window_metal.036
+    2100400: Window_inside.036
+    2100402: Window_stone.036
+    2100404: Window_glass.036
+    2100406: Window_outside.037
+    2100408: Window_metal.037
+    2100410: Window_inside.037
+    2100412: Window_stone.037
+    2100414: Window_glass.037
+    2100416: Window_outside.038
+    2100418: Window_metal.038
+    2100420: Window_inside.038
+    2100422: Window_stone.038
+    2100424: Window_glass.038
+    2100426: Window_outside.039
+    2100428: Window_metal.039
+    2100430: Window_inside.039
+    2100432: Window_stone.039
+    2100434: Window_glass.039
+    2100436: Window_outside.040
+    2100438: Window_metal.040
+    2100440: Window_inside.040
+    2100442: Window_stone.040
+    2100444: Window_glass.040
+    2100446: Window_outside.041
+    2100448: Window_metal.041
+    2100450: Window_inside.041
+    2100452: Window_stone.041
+    2100454: Window_glass.041
+    2100456: Window_outside.042
+    2100458: Window_metal.042
+    2100460: Window_inside.042
+    2100462: Window_stone.042
+    2100464: Window_glass.042
+    2100466: Window_outside.043
+    2100468: Window_metal.043
+    2100470: Window_inside.043
+    2100472: Window_stone.043
+    2100474: Window_glass.043
+    2100476: Window_outside.044
+    2100478: Window_metal.044
+    2100480: Window_inside.044
+    2100482: Window_stone.044
+    2100484: Window_glass.044
+    2100486: Window_outside.045
+    2100488: Window_metal.045
+    2100490: Window_inside.045
+    2100492: Window_stone.045
+    2100494: Window_glass.045
+    2100496: Material.028
+    2100498: Material.029
+    2100500: Material.031
+    2100502: Material.030
+    2100504: Material.032
+    2100506: Material.033
+    2100508: Material.034
+    2100510: Material.047
+    2100512: Material.045
+    2100514: Material.049
+    2100516: Material.046
+    2100518: Material.052
+    2100520: Material.053
+    2100522: Material.050
+    2100524: Material.051
+    2100526: Material.054
+    2100528: Material.055
+    2100530: Material.056
+    2100532: Material.057
+    2100534: Material.058
+    2100536: Material.059
+    2100538: Material.063
+    2100540: Material.062
+    2100542: Material.065
+    2100544: Material.064
+    2100546: Material.067
+    2100548: Material.066
+    2100550: Material.069
+    2100552: Material.068
+    2100554: Material.071
+    2100556: Material.070
+    2300000: 1517449362-logo-unmuh-1912-(2)
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cube.003
+    2300010: Cube.004
+    2300012: Cube.005
+    2300014: Cube.006
+    2300016: Cube.007
+    2300018: Cube.008
+    2300020: Cube.009
+    2300022: Cube.010
+    2300024: Cube.011
+    2300026: Cube.012
+    2300028: Cube.013
+    2300030: Cube.014
+    2300032: Cube.015
+    2300034: Cube.016
+    2300036: Cube.017
+    2300038: Cube.018
+    2300040: Cylinder
+    2300042: Cylinder.001
+    2300044: Cylinder.002
+    2300046: Cylinder.003
+    2300048: Cylinder.004
+    2300050: Cylinder.005
+    2300052: Cylinder.006
+    2300054: Cylinder.007
+    2300056: Cylinder.008
+    2300058: Cylinder.009
+    2300060: Cylinder.010
+    2300062: Cylinder.011
+    2300064: Cylinder.012
+    2300066: Cylinder.013
+    2300068: Cylinder.014
+    2300070: Cylinder.015
+    2300072: Cylinder.016
+    2300074: Cylinder.017
+    2300076: Cylinder.018
+    2300078: Cylinder.019
+    2300080: Cylinder.020
+    2300082: Door
+    2300084: DoorFrame
+    2300086: Grid
+    2300088: Handle_Back
+    2300090: Handle_Front
+    2300092: leaves
+    2300094: leaves.001
+    2300096: leaves.002
+    2300098: leaves.003
+    2300100: leaves.004
+    2300102: leaves.005
+    2300104: Plane
+    2300106: Plane.001
+    2300108: Plane.002
+    2300110: Roof
+    2300112: Roof.001
+    2300114: Roof.002
+    2300116: Text
+    2300118: Text.001
+    2300120: tree
+    2300122: tree.001
+    2300124: tree.002
+    2300126: tree.003
+    2300128: tree.004
+    2300130: tree.005
+    2300132: Window
+    2300134: Window Panel
+    2300136: Window Panel.001
+    2300138: Window Panel.004
+    2300140: Window Panel.005
+    2300142: Window Panel.006
+    2300144: Window Panel.007
+    2300146: Window Panel.008
+    2300148: Window Panel.009
+    2300150: Window Panel.010
+    2300152: Window Panel.011
+    2300154: Window Panel.012
+    2300156: Window Panel.013
+    2300158: Window Panel.014
+    2300160: Window Panel.015
+    2300162: Window Panel.016
+    2300164: Window Panel.017
+    2300166: Window Panel.018
+    2300168: Window Panel.019
+    2300170: Window Panel.020
+    2300172: Window Panel.021
+    2300174: Window Panel.022
+    2300176: Window Panel.023
+    2300178: Window Panel.024
+    2300180: Window Panel.025
+    2300182: Window Panel.026
+    2300184: Window Panel.027
+    2300186: Window Panel.028
+    2300188: Window Panel.029
+    2300190: Window Panel.030
+    2300192: Window Panel.031
+    2300194: Window Panel.032
+    2300196: Window Panel.033
+    2300198: Window Panel.034
+    2300200: Window Panel.035
+    2300202: Window Panel.036
+    2300204: Window Panel.037
+    2300206: Window Panel.038
+    2300208: Window Panel.039
+    2300210: Window Panel.040
+    2300212: Window Panel.041
+    2300214: Window Panel.042
+    2300216: Window Panel.043
+    2300218: Window Panel.044
+    2300220: Window Panel.045
+    2300222: Window Panel.050
+    2300224: Window Panel.051
+    2300226: Window Panel.052
+    2300228: Window Panel.053
+    2300230: Window Panel.054
+    2300232: Window Panel.055
+    2300234: Window Panel.056
+    2300236: Window Panel.057
+    2300238: Window Panel.058
+    2300240: Window Panel.059
+    2300242: Window Panel.060
+    2300244: Window Panel.061
+    2300246: Window Panel.062
+    2300248: Window Panel.063
+    2300250: Window Panel.064
+    2300252: Window Panel.065
+    2300254: Window Panel.066
+    2300256: Window Panel.067
+    2300258: Window Panel.068
+    2300260: Window Panel.069
+    2300262: Window Panel.070
+    2300264: Window Panel.071
+    2300266: Window Panel.072
+    2300268: Window Panel.073
+    2300270: Window Panel.074
+    2300272: Window Panel.075
+    2300274: Window Panel.076
+    2300276: Window Panel.077
+    2300278: Window.001
+    2300280: Window.002
+    2300282: Window.003
+    2300284: Window.004
+    2300286: Window.005
+    2300288: Window.006
+    2300290: Window.007
+    2300292: Window.008
+    2300294: Window.009
+    2300296: Window.010
+    2300298: Window.011
+    2300300: Window.012
+    2300302: Window.013
+    2300304: Window.014
+    2300306: Window.015
+    2300308: Window.016
+    2300310: Window.017
+    2300312: Window.018
+    2300314: Window.019
+    2300316: Window.020
+    2300318: Window.021
+    2300320: Window.022
+    2300322: Window.023
+    2300324: Window.024
+    2300326: Window.025
+    2300328: Window.026
+    2300330: Window.027
+    2300332: Window.028
+    2300334: Window.029
+    2300336: Window.030
+    2300338: Window.031
+    2300340: Window.032
+    2300342: Window.033
+    2300344: Window.034
+    2300346: Window.035
+    3300000: 1517449362-logo-unmuh-1912-(2)
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cube.003
+    3300010: Cube.004
+    3300012: Cube.005
+    3300014: Cube.006
+    3300016: Cube.007
+    3300018: Cube.008
+    3300020: Cube.009
+    3300022: Cube.010
+    3300024: Cube.011
+    3300026: Cube.012
+    3300028: Cube.013
+    3300030: Cube.014
+    3300032: Cube.015
+    3300034: Cube.016
+    3300036: Cube.017
+    3300038: Cube.018
+    3300040: Cylinder
+    3300042: Cylinder.001
+    3300044: Cylinder.002
+    3300046: Cylinder.003
+    3300048: Cylinder.004
+    3300050: Cylinder.005
+    3300052: Cylinder.006
+    3300054: Cylinder.007
+    3300056: Cylinder.008
+    3300058: Cylinder.009
+    3300060: Cylinder.010
+    3300062: Cylinder.011
+    3300064: Cylinder.012
+    3300066: Cylinder.013
+    3300068: Cylinder.014
+    3300070: Cylinder.015
+    3300072: Cylinder.016
+    3300074: Cylinder.017
+    3300076: Cylinder.018
+    3300078: Cylinder.019
+    3300080: Cylinder.020
+    3300082: Door
+    3300084: DoorFrame
+    3300086: Grid
+    3300088: Handle_Back
+    3300090: Handle_Front
+    3300092: leaves
+    3300094: leaves.001
+    3300096: leaves.002
+    3300098: leaves.003
+    3300100: leaves.004
+    3300102: leaves.005
+    3300104: Plane
+    3300106: Plane.001
+    3300108: Plane.002
+    3300110: Roof
+    3300112: Roof.001
+    3300114: Roof.002
+    3300116: Text
+    3300118: Text.001
+    3300120: tree
+    3300122: tree.001
+    3300124: tree.002
+    3300126: tree.003
+    3300128: tree.004
+    3300130: tree.005
+    3300132: Window
+    3300134: Window Panel
+    3300136: Window Panel.001
+    3300138: Window Panel.004
+    3300140: Window Panel.005
+    3300142: Window Panel.006
+    3300144: Window Panel.007
+    3300146: Window Panel.008
+    3300148: Window Panel.009
+    3300150: Window Panel.010
+    3300152: Window Panel.011
+    3300154: Window Panel.012
+    3300156: Window Panel.013
+    3300158: Window Panel.014
+    3300160: Window Panel.015
+    3300162: Window Panel.016
+    3300164: Window Panel.017
+    3300166: Window Panel.018
+    3300168: Window Panel.019
+    3300170: Window Panel.020
+    3300172: Window Panel.021
+    3300174: Window Panel.022
+    3300176: Window Panel.023
+    3300178: Window Panel.024
+    3300180: Window Panel.025
+    3300182: Window Panel.026
+    3300184: Window Panel.027
+    3300186: Window Panel.028
+    3300188: Window Panel.029
+    3300190: Window Panel.030
+    3300192: Window Panel.031
+    3300194: Window Panel.032
+    3300196: Window Panel.033
+    3300198: Window Panel.034
+    3300200: Window Panel.035
+    3300202: Window Panel.036
+    3300204: Window Panel.037
+    3300206: Window Panel.038
+    3300208: Window Panel.039
+    3300210: Window Panel.040
+    3300212: Window Panel.041
+    3300214: Window Panel.042
+    3300216: Window Panel.043
+    3300218: Window Panel.044
+    3300220: Window Panel.045
+    3300222: Window Panel.050
+    3300224: Window Panel.051
+    3300226: Window Panel.052
+    3300228: Window Panel.053
+    3300230: Window Panel.054
+    3300232: Window Panel.055
+    3300234: Window Panel.056
+    3300236: Window Panel.057
+    3300238: Window Panel.058
+    3300240: Window Panel.059
+    3300242: Window Panel.060
+    3300244: Window Panel.061
+    3300246: Window Panel.062
+    3300248: Window Panel.063
+    3300250: Window Panel.064
+    3300252: Window Panel.065
+    3300254: Window Panel.066
+    3300256: Window Panel.067
+    3300258: Window Panel.068
+    3300260: Window Panel.069
+    3300262: Window Panel.070
+    3300264: Window Panel.071
+    3300266: Window Panel.072
+    3300268: Window Panel.073
+    3300270: Window Panel.074
+    3300272: Window Panel.075
+    3300274: Window Panel.076
+    3300276: Window Panel.077
+    3300278: Window.001
+    3300280: Window.002
+    3300282: Window.003
+    3300284: Window.004
+    3300286: Window.005
+    3300288: Window.006
+    3300290: Window.007
+    3300292: Window.008
+    3300294: Window.009
+    3300296: Window.010
+    3300298: Window.011
+    3300300: Window.012
+    3300302: Window.013
+    3300304: Window.014
+    3300306: Window.015
+    3300308: Window.016
+    3300310: Window.017
+    3300312: Window.018
+    3300314: Window.019
+    3300316: Window.020
+    3300318: Window.021
+    3300320: Window.022
+    3300322: Window.023
+    3300324: Window.024
+    3300326: Window.025
+    3300328: Window.026
+    3300330: Window.027
+    3300332: Window.028
+    3300334: Window.029
+    3300336: Window.030
+    3300338: Window.031
+    3300340: Window.032
+    3300342: Window.033
+    3300344: Window.034
+    3300346: Window.035
+    4300000: tree
+    4300002: leaves
+    4300004: 1517449362-logo-unmuh-1912-(2)
+    4300006: Text.001
+    4300008: Text
+    4300010: Window
+    4300012: Window Panel.001
+    4300014: Window Panel
+    4300016: Plane
+    4300018: Cylinder.010
+    4300020: DoorFrame
+    4300022: Door
+    4300024: Handle_Back
+    4300026: Handle_Front
+    4300028: Cube.001
+    4300030: Cylinder.008
+    4300032: Grid
+    4300034: Cylinder.001
+    4300036: Cylinder
+    4300038: Roof.001
+    4300040: Roof
+    4300042: Cube
+    4300044: Roof.002
+    4300046: Cylinder.002
+    4300048: Cylinder.003
+    4300050: Cylinder.004
+    4300052: Cylinder.005
+    4300054: Cylinder.006
+    4300056: Cylinder.007
+    4300058: Cylinder.009
+    4300060: Cube.002
+    4300062: Cube.004
+    4300064: Cube.003
+    4300066: Cylinder.011
+    4300068: Cylinder.012
+    4300070: Cylinder.013
+    4300072: Plane.001
+    4300074: Plane.002
+    4300076: Window.004
+    4300078: Window Panel.006
+    4300080: Window Panel.005
+    4300082: Window.005
+    4300084: Window Panel.008
+    4300086: Window Panel.007
+    4300088: Window.006
+    4300090: Window Panel.010
+    4300092: Window Panel.009
+    4300094: Window.007
+    4300096: Window Panel.012
+    4300098: Window Panel.011
+    4300100: Window.008
+    4300102: Window Panel.014
+    4300104: Window Panel.013
+    4300106: Window.001
+    4300108: Window Panel.016
+    4300110: Window Panel.015
+    4300112: Window.002
+    4300114: Window Panel.018
+    4300116: Window Panel.017
+    4300118: Window.003
+    4300120: Window Panel.020
+    4300122: Window Panel.019
+    4300124: Window.009
+    4300126: Window Panel.022
+    4300128: Window Panel.021
+    4300130: Window.010
+    4300132: Window Panel.024
+    4300134: Window Panel.023
+    4300136: Window.011
+    4300138: Window Panel.026
+    4300140: Window Panel.025
+    4300142: Window.012
+    4300144: Window Panel.028
+    4300146: Window Panel.027
+    4300148: Window.013
+    4300150: Window Panel.030
+    4300152: Window Panel.029
+    4300154: Window.014
+    4300156: Window Panel.032
+    4300158: Window Panel.031
+    4300160: Window.015
+    4300162: Window Panel.034
+    4300164: Window Panel.033
+    4300166: Window.016
+    4300168: Window Panel.036
+    4300170: Window Panel.035
+    4300172: Window.017
+    4300174: Window Panel.038
+    4300176: Window Panel.037
+    4300178: Window.018
+    4300180: Window Panel.039
+    4300182: Window Panel.004
+    4300184: Window.019
+    4300186: Window Panel.041
+    4300188: Window Panel.040
+    4300190: Window.020
+    4300192: Window Panel.043
+    4300194: Window Panel.042
+    4300196: Window.021
+    4300198: Window Panel.045
+    4300200: Window Panel.044
+    4300202: Window.022
+    4300204: Window Panel.051
+    4300206: Window Panel.050
+    4300208: Window.023
+    4300210: Window Panel.053
+    4300212: Window Panel.052
+    4300214: Window.024
+    4300216: Window Panel.055
+    4300218: Window Panel.054
+    4300220: Window.025
+    4300222: Window Panel.057
+    4300224: Window Panel.056
+    4300226: Window.026
+    4300228: Window Panel.059
+    4300230: Window Panel.058
+    4300232: Window.027
+    4300234: Window Panel.061
+    4300236: Window Panel.060
+    4300238: Window.028
+    4300240: Window Panel.063
+    4300242: Window Panel.062
+    4300244: Window.029
+    4300246: Window Panel.065
+    4300248: Window Panel.064
+    4300250: Window.030
+    4300252: Window Panel.067
+    4300254: Window Panel.066
+    4300256: Window.031
+    4300258: Window Panel.069
+    4300260: Window Panel.068
+    4300262: Window.032
+    4300264: Window Panel.071
+    4300266: Window Panel.070
+    4300268: Window.033
+    4300270: Window Panel.073
+    4300272: Window Panel.072
+    4300274: Window.034
+    4300276: Window Panel.075
+    4300278: Window Panel.074
+    4300280: Window.035
+    4300282: Window Panel.077
+    4300284: Window Panel.076
+    4300286: Cylinder.014
+    4300288: Cylinder.015
+    4300290: Cylinder.016
+    4300292: Cylinder.017
+    4300294: Cylinder.018
+    4300296: Cylinder.019
+    4300298: Cylinder.020
+    4300300: Cube.007
+    4300302: Cube.008
+    4300304: Cube.013
+    4300306: Cube.014
+    4300308: Cube.005
+    4300310: Cube.006
+    4300312: Cube.009
+    4300314: Cube.010
+    4300316: Cube.011
+    4300318: Cube.012
+    4300320: Cube.015
+    4300322: Cube.016
+    4300324: Cube.017
+    4300326: Cube.018
+    4300328: tree.001
+    4300330: leaves.001
+    4300332: tree.002
+    4300334: leaves.002
+    4300336: tree.003
+    4300338: leaves.003
+    4300340: tree.004
+    4300342: leaves.004
+    4300344: tree.005
+    4300346: leaves.005
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
