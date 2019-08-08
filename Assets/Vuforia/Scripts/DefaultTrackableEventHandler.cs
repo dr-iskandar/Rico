@@ -129,6 +129,12 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
         {
             buttonInfo.SetActive(false);
         }
+
+        AudioSource auos = gameObject.GetComponent<AudioSource>();
+        if (gameObject!=null)
+        {
+            auos.Stop();
+        }
     }
 
     #endregion // PROTECTED_METHODS

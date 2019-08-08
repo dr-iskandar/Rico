@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class UIController : MonoBehaviour
 {
+    public string downloadUrl;
+
     public void ChangeScene(string sceneName)
     {
         SceneManager.LoadScene(sceneName);
@@ -12,7 +14,7 @@ public class UIController : MonoBehaviour
 
     public void DownloadMarker()
     {
-        Application.OpenURL("https://drive.google.com/uc?authuser=4&id=1hePzMhOWFKzsVxP9PT12oAjyEc8JSnar&export=download");
+        Application.OpenURL(downloadUrl);
     }
 
     public void exit()

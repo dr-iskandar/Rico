@@ -20,7 +20,7 @@ MonoBehaviour:
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
-    version: 8.1.10
+    version: 8.1.7
     eulaAcceptedVersions: '{"Values":["7.5","8.0","7.1","7.2","7.7","8.1","0.0","8.3","7.9","8.2"]}'
   digitalEyewear:
     cameraOffset: 0.06
@@ -65,5 +65,5 @@ MonoBehaviour:
     autoStartTracker: 0
   webcam:
     deviceNameSetInEditor: 
-    turnOffWebCam: 0
+    turnOffWebCam: 1
     renderTextureLayer: 30
